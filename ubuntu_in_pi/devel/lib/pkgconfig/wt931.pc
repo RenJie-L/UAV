@@ -1,8 +1,0 @@
-prefix=/home/pi/amov_ros/devel
-
-Name: wt931
-Description: Description of wt931
-Version: 0.0.0
-Cflags: -I/home/pi/amov_ros/src/ROS-WT931/wt931/include
-Libs: -L/home/pi/amov_ros/devel/lib 
-Requires: 

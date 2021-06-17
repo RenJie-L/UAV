@@ -1,8 +1,0 @@
-prefix=/home/pi/amov_ros/devel
-
-Name: offb
-Description: Description of offb
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/pi/amov_ros/devel/lib 
-Requires: 
