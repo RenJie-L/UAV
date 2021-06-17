@@ -1,0 +1,8 @@
+prefix=/home/pi/amov_ros/devel
+
+Name: talk
+Description: Description of talk
+Version: 0.0.0
+Cflags: -I/home/pi/amov_ros/src/talk/include
+Libs: -L/home/pi/amov_ros/devel/lib -ltalk
+Requires: roscpp rospy std_msgs

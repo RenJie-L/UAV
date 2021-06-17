@@ -1,0 +1,8 @@
+prefix=/home/pi/amov_ros/devel
+
+Name: vrpn_client_ros
+Description: Description of vrpn_client_ros
+Version: 0.2.2
+Cflags: -I/home/pi/amov_ros/src/vrpn_client_ros/include -I/opt/ros/kinetic/include
+Libs: -L/home/pi/amov_ros/devel/lib -lvrpn_client_ros /opt/ros/kinetic/lib/libvrpn.a /opt/ros/kinetic/lib/libquat.a -lm -l-lpthread
+Requires: geometry_msgs tf2_ros
