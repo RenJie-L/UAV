@@ -1,0 +1,8 @@
+prefix=/home/pi/amov_ros/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: -I/home/pi/amov_ros/src/demo/include
+Libs: -L/home/pi/amov_ros/devel/lib -ldemo
+Requires: mavros roscpp std_msgs
